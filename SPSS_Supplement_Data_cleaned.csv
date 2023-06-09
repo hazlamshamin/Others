@@ -93,7 +93,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.06,3,-1.355269702
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.06,3,-0.876230395
 5-Methoxyindoleacetic acid,Indoles,RL,0.06,3,-1.894148355
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.06,3,-0.12145006
-Glucose-MOX-5TMS-PK2,Carbohydrates,RL,0.06,3,0.458314407
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.06,3,0.458314407
 "Xylose, TMS",Carbohydrates,RL,0.06,3,-0.824679509
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.06,3,-1.14163964
 "Palmitic acid, TMS",Fatty acids,RL,0.06,3,-1.418672441
@@ -129,7 +129,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.06,4,0.686008581
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.06,4,-0.900259839
 5-Methoxyindoleacetic acid,Indoles,RL,0.06,4,-1.713017116
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.06,4,-0.764993026
-Glucose-MOX-5TMS-PK2,Carbohydrates,RL,0.06,4,0.254128947
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.06,4,0.254128947
 "Xylose, TMS",Carbohydrates,RL,0.06,4,-0.837803096
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.06,4,-0.938453029
 "Palmitic acid, TMS",Fatty acids,RL,0.06,4,-1.062236154
@@ -165,7 +165,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.06,5,-1.361084009
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.06,5,-1.051122331
 5-Methoxyindoleacetic acid,Indoles,RL,0.06,5,0.532468027
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.06,5,0.265063142
-Glucose-MOX-5TMS-PK3,Carbohydrates,RL,0.06,5,0.320050664
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.06,5,0.320050664
 "Xylose, TMS",Carbohydrates,RL,0.06,5,-0.943235877
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.06,5,-0.88875142
 "Palmitic acid, TMS",Fatty acids,RL,0.06,5,-1.098775764
@@ -201,7 +201,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.125,1,-1.136576672
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.125,1,-0.770959741
 5-Methoxyindoleacetic acid,Indoles,RL,0.125,1,0.821518934
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.125,1,-0.064456893
-Glucose-MOX-5TMS-PK3,Carbohydrates,RL,0.125,1,0.867795698
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.125,1,0.867795698
 "Xylose, TMS",Carbohydrates,RL,0.125,1,-0.888602939
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.125,1,-0.922035617
 "Palmitic acid, TMS",Fatty acids,RL,0.125,1,-1.095934678
@@ -237,7 +237,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.125,2,0.722180922
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.125,2,-1.149200544
 5-Methoxyindoleacetic acid,Indoles,RL,0.125,2,0.462583754
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.125,2,-1.02061019
-Glucose-MOX-5TMS-PK4,Carbohydrates,RL,0.125,2,0.875588784
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.125,2,0.875588784
 "Xylose, TMS",Carbohydrates,RL,0.125,2,-1.027552906
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.125,2,-0.975136016
 "Palmitic acid, TMS",Fatty acids,RL,0.125,2,-1.052927164
@@ -273,7 +273,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.125,3,-1.045552159
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.125,3,-0.831808687
 5-Methoxyindoleacetic acid,Indoles,RL,0.125,3,0.802266152
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.125,3,-0.750388083
-Glucose-MOX-5TMS-PK4,Carbohydrates,RL,0.125,3,-2.549006118
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.125,3,-2.549006118
 "Xylose, TMS",Carbohydrates,RL,0.125,3,-0.770708298
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.125,3,-0.991652578
 "Palmitic acid, TMS",Fatty acids,RL,0.125,3,-0.761733823
@@ -309,7 +309,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.125,4,0.8821158
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.125,4,-0.755100937
 5-Methoxyindoleacetic acid,Indoles,RL,0.125,4,0.488114408
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.125,4,-0.66207443
-Glucose-MOX-5TMS-PK5,Carbohydrates,RL,0.125,4,-0.678612472
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.125,4,-0.678612472
 "Xylose, TMS",Carbohydrates,RL,0.125,4,-0.779305297
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.125,4,-0.863230963
 "Palmitic acid, TMS",Fatty acids,RL,0.125,4,-0.960874508
@@ -345,7 +345,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.125,5,0.771900012
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.125,5,-0.627609199
 5-Methoxyindoleacetic acid,Indoles,RL,0.125,5,-1.599100844
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.125,5,0.057543924
-Glucose-MOX-5TMS-PK5,Carbohydrates,RL,0.125,5,-0.664366947
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.125,5,-0.664366947
 "Xylose, TMS",Carbohydrates,RL,0.125,5,-0.572647617
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.125,5,-0.825322789
 "Palmitic acid, TMS",Fatty acids,RL,0.125,5,-0.438580676
@@ -381,7 +381,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.25,1,0.893223879
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.25,1,-0.935177592
 5-Methoxyindoleacetic acid,Indoles,RL,0.25,1,0.164247021
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.25,1,-0.785911131
-Glucose-MOX-5TMS-PK6,Carbohydrates,RL,0.25,1,0.874891111
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.25,1,0.874891111
 "Xylose, TMS",Carbohydrates,RL,0.25,1,-0.833879775
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.25,1,-0.894098724
 "Palmitic acid, TMS",Fatty acids,RL,0.25,1,-1.449815306
@@ -417,7 +417,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.25,2,0.62975905
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.25,2,-1.086797219
 5-Methoxyindoleacetic acid,Indoles,RL,0.25,2,0.578164946
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.25,2,-0.83109713
-Glucose-MOX-5TMS-PK6,Carbohydrates,RL,0.25,2,-0.695113571
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.25,2,-0.695113571
 "Xylose, TMS",Carbohydrates,RL,0.25,2,-0.924720918
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.25,2,-1.128686236
 "Palmitic acid, TMS",Fatty acids,RL,0.25,2,-0.705436485
@@ -453,7 +453,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.25,3,-1.171741813
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.25,3,-0.926870845
 5-Methoxyindoleacetic acid,Indoles,RL,0.25,3,-1.717675234
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.25,3,-0.872269679
-Glucose-MOX-5TMS-PK7,Carbohydrates,RL,0.25,3,0.837860292
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.25,3,0.837860292
 "Xylose, TMS",Carbohydrates,RL,0.25,3,-0.975351077
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.25,3,-0.899561769
 "Palmitic acid, TMS",Fatty acids,RL,0.25,3,-0.977568219
@@ -489,7 +489,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.25,4,-1.204406656
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.25,4,-1.175064444
 5-Methoxyindoleacetic acid,Indoles,RL,0.25,4,-0.745272021
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.25,4,-0.171645743
-Glucose-MOX-5TMS-PK7,Carbohydrates,RL,0.25,4,-2.582603404
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.25,4,-2.582603404
 "Xylose, TMS",Carbohydrates,RL,0.25,4,-1.032451018
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.25,4,-1.287005
 "Palmitic acid, TMS",Fatty acids,RL,0.25,4,-0.891365579
@@ -525,7 +525,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.25,5,-1.100255007
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.25,5,-0.816398273
 5-Methoxyindoleacetic acid,Indoles,RL,0.25,5,-1.64892886
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.25,5,-0.180928105
-Glucose-MOX-5TMS-PK8,Carbohydrates,RL,0.25,5,0.782933953
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.25,5,0.782933953
 "Xylose, TMS",Carbohydrates,RL,0.25,5,-0.697641527
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.25,5,-0.92161639
 "Palmitic acid, TMS",Fatty acids,RL,0.25,5,-0.967815369
@@ -561,7 +561,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.5,1,-0.634750327
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.5,1,-0.9713789
 5-Methoxyindoleacetic acid,Indoles,RL,0.5,1,0.642414034
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.5,1,0.362906045
-Glucose-MOX-5TMS-PK8,Carbohydrates,RL,0.5,1,0.928473856
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.5,1,0.928473856
 "Xylose, TMS",Carbohydrates,RL,0.5,1,-1.08605384
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.5,1,-1.073232489
 "Palmitic acid, TMS",Fatty acids,RL,0.5,1,-0.879784607
@@ -597,7 +597,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.5,2,0.715096709
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.5,2,-0.983130252
 5-Methoxyindoleacetic acid,Indoles,RL,0.5,2,0.537071515
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.5,2,-1.121540049
-Glucose-MOX-5TMS-PK9,Carbohydrates,RL,0.5,2,-0.674545073
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.5,2,-0.674545073
 "Xylose, TMS",Carbohydrates,RL,0.5,2,-1.197958097
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.5,2,-1.089937315
 "Palmitic acid, TMS",Fatty acids,RL,0.5,2,-1.401151248
@@ -633,7 +633,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.5,3,0.574716705
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.5,3,-0.670335778
 5-Methoxyindoleacetic acid,Indoles,RL,0.5,3,0.483798336
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.5,3,-0.122798204
-Glucose-MOX-5TMS-PK9,Carbohydrates,RL,0.5,3,-0.702755072
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.5,3,-0.702755072
 "Xylose, TMS",Carbohydrates,RL,0.5,3,-0.928941689
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.5,3,-0.811925669
 "Palmitic acid, TMS",Fatty acids,RL,0.5,3,-1.288997963
@@ -669,7 +669,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.5,4,0.615058998
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.5,4,-0.700586634
 5-Methoxyindoleacetic acid,Indoles,RL,0.5,4,0.555055326
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.5,4,-0.032509249
-Glucose-MOX-5TMS-PK10,Carbohydrates,RL,0.5,4,1.017149621
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.5,4,1.017149621
 "Xylose, TMS",Carbohydrates,RL,0.5,4,-1.070479149
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.5,4,-0.926832641
 "Palmitic acid, TMS",Fatty acids,RL,0.5,4,-1.286030526
@@ -705,7 +705,7 @@ Glyceric acid 3TMS,Organic acids,RL,0.5,5,-1.217103313
 β-D-Glucopyranose TMS,Carbohydrates,RL,0.5,5,-0.871041082
 5-Methoxyindoleacetic acid,Indoles,RL,0.5,5,-1.761296078
 Erythrose MEOX-3TMS,Carbohydrates,RL,0.5,5,0.456858845
-Glucose-MOX-5TMS-PK10,Carbohydrates,RL,0.5,5,0.387684592
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,0.5,5,0.387684592
 "Xylose, TMS",Carbohydrates,RL,0.5,5,-1.060806893
 "Myo-Inositol, 6TMS",Carbohydrates,RL,0.5,5,-0.951305272
 "Palmitic acid, TMS",Fatty acids,RL,0.5,5,-1.524560657
@@ -741,7 +741,7 @@ Glyceric acid 3TMS,Organic acids,RL,1,1,-1.566319406
 β-D-Glucopyranose TMS,Carbohydrates,RL,1,1,-1.190062202
 5-Methoxyindoleacetic acid,Indoles,RL,1,1,0.331075645
 Erythrose MEOX-3TMS,Carbohydrates,RL,1,1,-2.796980387
-Glucose-MOX-5TMS-PK11,Carbohydrates,RL,1,1,-0.686658774
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,1,1,-0.686658774
 "Xylose, TMS",Carbohydrates,RL,1,1,-1.293956852
 "Myo-Inositol, 6TMS",Carbohydrates,RL,1,1,-1.288079957
 "Palmitic acid, TMS",Fatty acids,RL,1,1,-1.081290171
@@ -777,7 +777,7 @@ Glyceric acid 3TMS,Organic acids,RL,1,2,-1.157616063
 β-D-Glucopyranose TMS,Carbohydrates,RL,1,2,-0.70505079
 5-Methoxyindoleacetic acid,Indoles,RL,1,2,0.649564429
 Erythrose MEOX-3TMS,Carbohydrates,RL,1,2,0.039049747
-Glucose-MOX-5TMS-PK11,Carbohydrates,RL,1,2,0.700164358
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,1,2,0.700164358
 "Xylose, TMS",Carbohydrates,RL,1,2,-1.237931689
 "Myo-Inositol, 6TMS",Carbohydrates,RL,1,2,-0.888446473
 "Palmitic acid, TMS",Fatty acids,RL,1,2,-1.002899733
@@ -813,7 +813,7 @@ Glyceric acid 3TMS,Organic acids,RL,1,3,0.444313676
 β-D-Glucopyranose TMS,Carbohydrates,RL,1,3,-0.91900994
 5-Methoxyindoleacetic acid,Indoles,RL,1,3,0.385932604
 Erythrose MEOX-3TMS,Carbohydrates,RL,1,3,-1.296398489
-Glucose-MOX-5TMS-PK12,Carbohydrates,RL,1,3,-0.820067622
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,1,3,-0.820067622
 "Xylose, TMS",Carbohydrates,RL,1,3,-1.403432767
 "Myo-Inositol, 6TMS",Carbohydrates,RL,1,3,-1.253270379
 "Palmitic acid, TMS",Fatty acids,RL,1,3,-1.162816121
@@ -849,7 +849,7 @@ Glyceric acid 3TMS,Organic acids,RL,1,4,-1.027268674
 β-D-Glucopyranose TMS,Carbohydrates,RL,1,4,-0.448545944
 5-Methoxyindoleacetic acid,Indoles,RL,1,4,-1.578737839
 Erythrose MEOX-3TMS,Carbohydrates,RL,1,4,0.099031153
-Glucose-MOX-5TMS-PK12,Carbohydrates,RL,1,4,0.699688288
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,1,4,0.699688288
 "Xylose, TMS",Carbohydrates,RL,1,4,-0.8248821
 "Myo-Inositol, 6TMS",Carbohydrates,RL,1,4,-0.771562665
 "Palmitic acid, TMS",Fatty acids,RL,1,4,-0.799604432
@@ -885,7 +885,7 @@ Glyceric acid 3TMS,Organic acids,RL,1,5,-1.125583736
 β-D-Glucopyranose TMS,Carbohydrates,RL,1,5,-0.9077016
 5-Methoxyindoleacetic acid,Indoles,RL,1,5,0.507746643
 Erythrose MEOX-3TMS,Carbohydrates,RL,1,5,-0.734552592
-Glucose-MOX-5TMS-PK13,Carbohydrates,RL,1,5,-0.744038865
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,1,5,-0.744038865
 "Xylose, TMS",Carbohydrates,RL,1,5,-1.407665407
 "Myo-Inositol, 6TMS",Carbohydrates,RL,1,5,-1.170970063
 "Palmitic acid, TMS",Fatty acids,RL,1,5,-1.041724444
@@ -921,7 +921,7 @@ Glyceric acid 3TMS,Organic acids,RL,CTRL,1,-0.902850014
 β-D-Glucopyranose TMS,Carbohydrates,RL,CTRL,1,-0.196601586
 5-Methoxyindoleacetic acid,Indoles,RL,CTRL,1,0.925782025
 Erythrose MEOX-3TMS,Carbohydrates,RL,CTRL,1,-0.574717067
-Glucose-MOX-5TMS-PK13,Carbohydrates,RL,CTRL,1,-0.624583614
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,CTRL,1,-0.624583614
 "Xylose, TMS",Carbohydrates,RL,CTRL,1,-0.344623514
 "Myo-Inositol, 6TMS",Carbohydrates,RL,CTRL,1,-0.497178158
 "Palmitic acid, TMS",Fatty acids,RL,CTRL,1,-0.197205527
@@ -957,7 +957,7 @@ Glyceric acid 3TMS,Organic acids,RL,CTRL,2,-0.738765424
 β-D-Glucopyranose TMS,Carbohydrates,RL,CTRL,2,-0.261366252
 5-Methoxyindoleacetic acid,Indoles,RL,CTRL,2,0.576326168
 Erythrose MEOX-3TMS,Carbohydrates,RL,CTRL,2,-0.768088803
-Glucose-MOX-5TMS-PK14,Carbohydrates,RL,CTRL,2,-0.712666966
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,CTRL,2,-0.712666966
 "Xylose, TMS",Carbohydrates,RL,CTRL,2,-0.507210611
 "Myo-Inositol, 6TMS",Carbohydrates,RL,CTRL,2,-0.634787795
 "Palmitic acid, TMS",Fatty acids,RL,CTRL,2,0.298516177
@@ -993,7 +993,7 @@ Glyceric acid 3TMS,Organic acids,RL,CTRL,3,0.842437849
 β-D-Glucopyranose TMS,Carbohydrates,RL,CTRL,3,-0.553049816
 5-Methoxyindoleacetic acid,Indoles,RL,CTRL,3,0.676111161
 Erythrose MEOX-3TMS,Carbohydrates,RL,CTRL,3,-0.837364964
-Glucose-MOX-5TMS-PK14,Carbohydrates,RL,CTRL,3,-0.739504078
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,CTRL,3,-0.739504078
 "Xylose, TMS",Carbohydrates,RL,CTRL,3,-0.563236978
 "Myo-Inositol, 6TMS",Carbohydrates,RL,CTRL,3,-0.688727831
 "Palmitic acid, TMS",Fatty acids,RL,CTRL,3,0.023141756
@@ -1029,7 +1029,7 @@ Glyceric acid 3TMS,Organic acids,RL,CTRL,4,-0.647220066
 β-D-Glucopyranose TMS,Carbohydrates,RL,CTRL,4,-0.449137213
 5-Methoxyindoleacetic acid,Indoles,RL,CTRL,4,0.533893006
 Erythrose MEOX-3TMS,Carbohydrates,RL,CTRL,4,-0.812623332
-Glucose-MOX-5TMS-PK15,Carbohydrates,RL,CTRL,4,-0.775488696
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,CTRL,4,-0.775488696
 "Xylose, TMS",Carbohydrates,RL,CTRL,4,-0.569349603
 "Myo-Inositol, 6TMS",Carbohydrates,RL,CTRL,4,-0.672092817
 "Palmitic acid, TMS",Fatty acids,RL,CTRL,4,0.040697887
@@ -1065,7 +1065,7 @@ Glyceric acid 3TMS,Organic acids,RL,CTRL,5,-0.670632454
 β-D-Glucopyranose TMS,Carbohydrates,RL,CTRL,5,-0.308518441
 5-Methoxyindoleacetic acid,Indoles,RL,CTRL,5,0.825006901
 Erythrose MEOX-3TMS,Carbohydrates,RL,CTRL,5,0.428846358
-Glucose-MOX-5TMS-PK15,Carbohydrates,RL,CTRL,5,-0.757893688
+Glucose-MOX-5TMS-PK1,Carbohydrates,RL,CTRL,5,-0.757893688
 "Xylose, TMS",Carbohydrates,RL,CTRL,5,-0.575997897
 "Myo-Inositol, 6TMS",Carbohydrates,RL,CTRL,5,-0.533615681
 "Palmitic acid, TMS",Fatty acids,RL,CTRL,5,0.256928483
@@ -1101,7 +1101,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.06,1,-0.479456063
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.06,1,0.161835617
 5-Methoxyindoleacetic acid,Indoles,SH,0.06,1,0.177232219
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.06,1,-1.480046987
-Glucose-MOX-5TMS-PK16,Carbohydrates,SH,0.06,1,1.256887546
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.06,1,1.256887546
 "Xylose, TMS",Carbohydrates,SH,0.06,1,0.419262605
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.06,1,0.456520219
 "Palmitic acid, TMS",Fatty acids,SH,0.06,1,0.589784346
@@ -1137,7 +1137,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.06,2,-0.349688143
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.06,2,-0.261486832
 5-Methoxyindoleacetic acid,Indoles,SH,0.06,2,1.638943479
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.06,2,0.261069449
-Glucose-MOX-5TMS-PK16,Carbohydrates,SH,0.06,2,-0.642460266
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.06,2,-0.642460266
 "Xylose, TMS",Carbohydrates,SH,0.06,2,0.036210248
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.06,2,0.258230973
 "Palmitic acid, TMS",Fatty acids,SH,0.06,2,0.771104324
@@ -1173,7 +1173,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.06,3,0.881967557
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.06,3,-0.505820538
 5-Methoxyindoleacetic acid,Indoles,SH,0.06,3,1.377135068
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.06,3,-1.391367155
-Glucose-MOX-5TMS-PK17,Carbohydrates,SH,0.06,3,-0.653776122
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.06,3,-0.653776122
 "Xylose, TMS",Carbohydrates,SH,0.06,3,-0.168132371
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.06,3,0.121574702
 "Palmitic acid, TMS",Fatty acids,SH,0.06,3,0.492705327
@@ -1209,7 +1209,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.06,4,-0.026882379
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.06,4,0.39085335
 5-Methoxyindoleacetic acid,Indoles,SH,0.06,4,-0.616589361
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.06,4,0.606425842
-Glucose-MOX-5TMS-PK17,Carbohydrates,SH,0.06,4,-0.662290659
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.06,4,-0.662290659
 "Xylose, TMS",Carbohydrates,SH,0.06,4,0.795458645
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.06,4,0.530178139
 "Palmitic acid, TMS",Fatty acids,SH,0.06,4,1.231501504
@@ -1245,7 +1245,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.06,5,1.497317133
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.06,5,0.67728153
 5-Methoxyindoleacetic acid,Indoles,SH,0.06,5,-0.536716971
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.06,5,0.299751708
-Glucose-MOX-5TMS-PK18,Carbohydrates,SH,0.06,5,1.094507061
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.06,5,1.094507061
 "Xylose, TMS",Carbohydrates,SH,0.06,5,0.683311838
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.06,5,0.595266941
 "Palmitic acid, TMS",Fatty acids,SH,0.06,5,1.569831731
@@ -1281,7 +1281,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.125,1,-0.552336742
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.125,1,0.921112708
 5-Methoxyindoleacetic acid,Indoles,SH,0.125,1,-1.121966515
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.125,1,-0.035511443
-Glucose-MOX-5TMS-PK18,Carbohydrates,SH,0.125,1,1.473017497
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.125,1,1.473017497
 "Xylose, TMS",Carbohydrates,SH,0.125,1,0.86349427
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.125,1,0.83123253
 "Palmitic acid, TMS",Fatty acids,SH,0.125,1,0.692985506
@@ -1317,7 +1317,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.125,2,-0.471122317
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.125,2,0.884187665
 5-Methoxyindoleacetic acid,Indoles,SH,0.125,2,0.984994
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.125,2,0.705383791
-Glucose-MOX-5TMS-PK19,Carbohydrates,SH,0.125,2,0.68800686
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.125,2,0.68800686
 "Xylose, TMS",Carbohydrates,SH,0.125,2,0.873157741
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.125,2,0.81581544
 "Palmitic acid, TMS",Fatty acids,SH,0.125,2,0.696177339
@@ -1353,7 +1353,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.125,3,0.215302132
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.125,3,3.058658184
 5-Methoxyindoleacetic acid,Indoles,SH,0.125,3,0.95430848
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.125,3,-0.638220151
-Glucose-MOX-5TMS-PK19,Carbohydrates,SH,0.125,3,-0.329327966
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.125,3,-0.329327966
 "Xylose, TMS",Carbohydrates,SH,0.125,3,2.212684624
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.125,3,1.89724677
 "Palmitic acid, TMS",Fatty acids,SH,0.125,3,1.877395373
@@ -1389,7 +1389,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.125,4,1.336062678
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.125,4,0.752390578
 5-Methoxyindoleacetic acid,Indoles,SH,0.125,4,-0.019043407
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.125,4,-1.387827048
-Glucose-MOX-5TMS-PK20,Carbohydrates,SH,0.125,4,-0.505368052
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.125,4,-0.505368052
 "Xylose, TMS",Carbohydrates,SH,0.125,4,0.820130789
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.125,4,0.797540614
 "Palmitic acid, TMS",Fatty acids,SH,0.125,4,0.448600705
@@ -1425,7 +1425,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.125,5,-0.458974461
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.125,5,0.847227834
 5-Methoxyindoleacetic acid,Indoles,SH,0.125,5,-0.003909689
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.125,5,0.565853001
-Glucose-MOX-5TMS-PK20,Carbohydrates,SH,0.125,5,-0.444793544
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.125,5,-0.444793544
 "Xylose, TMS",Carbohydrates,SH,0.125,5,0.902775594
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.125,5,0.858775036
 "Palmitic acid, TMS",Fatty acids,SH,0.125,5,0.763268012
@@ -1461,7 +1461,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.25,1,-0.827658315
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.25,1,0.735790923
 5-Methoxyindoleacetic acid,Indoles,SH,0.25,1,0.599672978
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.25,1,0.733174554
-Glucose-MOX-5TMS-PK21,Carbohydrates,SH,0.25,1,1.54225839
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.25,1,1.54225839
 "Xylose, TMS",Carbohydrates,SH,0.25,1,0.867652144
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.25,1,0.968261787
 "Palmitic acid, TMS",Fatty acids,SH,0.25,1,0.401712308
@@ -1497,7 +1497,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.25,2,-0.129256777
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.25,2,1.614172633
 5-Methoxyindoleacetic acid,Indoles,SH,0.25,2,-0.715052366
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.25,2,1.064575322
-Glucose-MOX-5TMS-PK21,Carbohydrates,SH,0.25,2,-0.600588328
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.25,2,-0.600588328
 "Xylose, TMS",Carbohydrates,SH,0.25,2,1.533413988
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.25,2,1.453885
 "Palmitic acid, TMS",Fatty acids,SH,0.25,2,1.260952275
@@ -1533,7 +1533,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.25,3,-0.148185658
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.25,3,1.586670946
 5-Methoxyindoleacetic acid,Indoles,SH,0.25,3,-0.733258029
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.25,3,0.347788919
-Glucose-MOX-5TMS-PK22,Carbohydrates,SH,0.25,3,1.24173143
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.25,3,1.24173143
 "Xylose, TMS",Carbohydrates,SH,0.25,3,1.419492706
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.25,3,1.377808251
 "Palmitic acid, TMS",Fatty acids,SH,0.25,3,1.149184236
@@ -1569,7 +1569,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.25,4,-0.097340825
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.25,4,1.417750748
 5-Methoxyindoleacetic acid,Indoles,SH,0.25,4,-0.684355824
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.25,4,0.28835449
-Glucose-MOX-5TMS-PK22,Carbohydrates,SH,0.25,4,1.166520191
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.25,4,1.166520191
 "Xylose, TMS",Carbohydrates,SH,0.25,4,1.364747282
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.25,4,1.251881346
 "Palmitic acid, TMS",Fatty acids,SH,0.25,4,1.21165434
@@ -1605,7 +1605,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.25,5,1.593251012
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.25,5,0.593935178
 5-Methoxyindoleacetic acid,Indoles,SH,0.25,5,0.222154439
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.25,5,1.377457604
-Glucose-MOX-5TMS-PK23,Carbohydrates,SH,0.25,5,-0.500333459
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.25,5,-0.500333459
 "Xylose, TMS",Carbohydrates,SH,0.25,5,0.897561985
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.25,5,0.609972744
 "Palmitic acid, TMS",Fatty acids,SH,0.25,5,0.50891634
@@ -1641,7 +1641,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.5,1,1.602319662
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.5,1,0.779688175
 5-Methoxyindoleacetic acid,Indoles,SH,0.5,1,-0.834867786
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.5,1,1.742434244
-Glucose-MOX-5TMS-PK23,Carbohydrates,SH,0.5,1,-0.494107214
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.5,1,-0.494107214
 "Xylose, TMS",Carbohydrates,SH,0.5,1,0.699827794
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.5,1,0.729933424
 "Palmitic acid, TMS",Fatty acids,SH,0.5,1,1.227337594
@@ -1677,7 +1677,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.5,2,1.083478384
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.5,2,0.238109302
 5-Methoxyindoleacetic acid,Indoles,SH,0.5,2,-1.153929503
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.5,2,-1.608623163
-Glucose-MOX-5TMS-PK24,Carbohydrates,SH,0.5,2,-0.534319394
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.5,2,-0.534319394
 "Xylose, TMS",Carbohydrates,SH,0.5,2,0.272279964
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.5,2,0.537075137
 "Palmitic acid, TMS",Fatty acids,SH,0.5,2,0.6862867
@@ -1713,7 +1713,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.5,3,-0.099874177
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.5,3,0.880387505
 5-Methoxyindoleacetic acid,Indoles,SH,0.5,3,0.413689533
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.5,3,0.839615292
-Glucose-MOX-5TMS-PK24,Carbohydrates,SH,0.5,3,-0.509967808
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.5,3,-0.509967808
 "Xylose, TMS",Carbohydrates,SH,0.5,3,0.61903689
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.5,3,0.759691336
 "Palmitic acid, TMS",Fatty acids,SH,0.5,3,1.000693645
@@ -1749,7 +1749,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.5,4,1.099343334
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.5,4,0.187923784
 5-Methoxyindoleacetic acid,Indoles,SH,0.5,4,-1.041113113
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.5,4,-0.209290235
-Glucose-MOX-5TMS-PK25,Carbohydrates,SH,0.5,4,1.112280651
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.5,4,1.112280651
 "Xylose, TMS",Carbohydrates,SH,0.5,4,0.128348668
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.5,4,0.566982009
 "Palmitic acid, TMS",Fatty acids,SH,0.5,4,0.671515198
@@ -1785,7 +1785,7 @@ Glyceric acid 3TMS,Organic acids,SH,0.5,5,1.735536732
 β-D-Glucopyranose TMS,Carbohydrates,SH,0.5,5,0.83745836
 5-Methoxyindoleacetic acid,Indoles,SH,0.5,5,-0.707941172
 Erythrose MEOX-3TMS,Carbohydrates,SH,0.5,5,1.007605769
-Glucose-MOX-5TMS-PK25,Carbohydrates,SH,0.5,5,-0.469943025
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,0.5,5,-0.469943025
 "Xylose, TMS",Carbohydrates,SH,0.5,5,0.772246247
 "Myo-Inositol, 6TMS",Carbohydrates,SH,0.5,5,1.024006071
 "Palmitic acid, TMS",Fatty acids,SH,0.5,5,1.185437782
@@ -1821,7 +1821,7 @@ Glyceric acid 3TMS,Organic acids,SH,1,1,-0.019517071
 β-D-Glucopyranose TMS,Carbohydrates,SH,1,1,2.263182893
 5-Methoxyindoleacetic acid,Indoles,SH,1,1,-0.609505455
 Erythrose MEOX-3TMS,Carbohydrates,SH,1,1,2.106145202
-Glucose-MOX-5TMS-PK26,Carbohydrates,SH,1,1,1.377377254
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,1,1,1.377377254
 "Xylose, TMS",Carbohydrates,SH,1,1,1.662937559
 "Myo-Inositol, 6TMS",Carbohydrates,SH,1,1,1.836657591
 "Palmitic acid, TMS",Fatty acids,SH,1,1,0.915145314
@@ -1857,7 +1857,7 @@ Glyceric acid 3TMS,Organic acids,SH,1,2,2.077869853
 β-D-Glucopyranose TMS,Carbohydrates,SH,1,2,1.886816706
 5-Methoxyindoleacetic acid,Indoles,SH,1,2,0.929953962
 Erythrose MEOX-3TMS,Carbohydrates,SH,1,2,2.535739518
-Glucose-MOX-5TMS-PK26,Carbohydrates,SH,1,2,-0.420497121
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,1,2,-0.420497121
 "Xylose, TMS",Carbohydrates,SH,1,2,1.670785375
 "Myo-Inositol, 6TMS",Carbohydrates,SH,1,2,1.749117402
 "Palmitic acid, TMS",Fatty acids,SH,1,2,1.020529031
@@ -1893,7 +1893,7 @@ Glyceric acid 3TMS,Organic acids,SH,1,3,1.630382465
 β-D-Glucopyranose TMS,Carbohydrates,SH,1,3,1.389349803
 5-Methoxyindoleacetic acid,Indoles,SH,1,3,0.730937201
 Erythrose MEOX-3TMS,Carbohydrates,SH,1,3,-0.361561816
-Glucose-MOX-5TMS-PK27,Carbohydrates,SH,1,3,-2.423428943
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,1,3,-2.423428943
 "Xylose, TMS",Carbohydrates,SH,1,3,1.203333351
 "Myo-Inositol, 6TMS",Carbohydrates,SH,1,3,1.143736727
 "Palmitic acid, TMS",Fatty acids,SH,1,3,0.606352632
@@ -1929,7 +1929,7 @@ Glyceric acid 3TMS,Organic acids,SH,1,4,-0.33777375
 β-D-Glucopyranose TMS,Carbohydrates,SH,1,4,1.050666351
 5-Methoxyindoleacetic acid,Indoles,SH,1,4,1.014395141
 Erythrose MEOX-3TMS,Carbohydrates,SH,1,4,2.355255779
-Glucose-MOX-5TMS-PK27,Carbohydrates,SH,1,4,1.25186633
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,1,4,1.25186633
 "Xylose, TMS",Carbohydrates,SH,1,4,1.158732698
 "Myo-Inositol, 6TMS",Carbohydrates,SH,1,4,1.573062064
 "Palmitic acid, TMS",Fatty acids,SH,1,4,0.672146215
@@ -1965,7 +1965,7 @@ Glyceric acid 3TMS,Organic acids,SH,1,5,1.692106056
 β-D-Glucopyranose TMS,Carbohydrates,SH,1,5,0.550233184
 5-Methoxyindoleacetic acid,Indoles,SH,1,5,0.536649044
 Erythrose MEOX-3TMS,Carbohydrates,SH,1,5,1.196061631
-Glucose-MOX-5TMS-PK28,Carbohydrates,SH,1,5,-0.426574478
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,1,5,-0.426574478
 "Xylose, TMS",Carbohydrates,SH,1,5,0.820343458
 "Myo-Inositol, 6TMS",Carbohydrates,SH,1,5,0.962541071
 "Palmitic acid, TMS",Fatty acids,SH,1,5,0.218947341
@@ -2001,7 +2001,7 @@ Glyceric acid 3TMS,Organic acids,SH,CTRL,1,-0.284591058
 β-D-Glucopyranose TMS,Carbohydrates,SH,CTRL,1,0.1779574
 5-Methoxyindoleacetic acid,Indoles,SH,CTRL,1,-0.864451688
 Erythrose MEOX-3TMS,Carbohydrates,SH,CTRL,1,0.267032763
-Glucose-MOX-5TMS-PK28,Carbohydrates,SH,CTRL,1,-0.507965603
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,CTRL,1,-0.507965603
 "Xylose, TMS",Carbohydrates,SH,CTRL,1,1.162080174
 "Myo-Inositol, 6TMS",Carbohydrates,SH,CTRL,1,1.094992429
 "Palmitic acid, TMS",Fatty acids,SH,CTRL,1,1.081737144
@@ -2037,7 +2037,7 @@ Glyceric acid 3TMS,Organic acids,SH,CTRL,2,1.257793428
 β-D-Glucopyranose TMS,Carbohydrates,SH,CTRL,2,0.427679144
 5-Methoxyindoleacetic acid,Indoles,SH,CTRL,2,1.545754789
 Erythrose MEOX-3TMS,Carbohydrates,SH,CTRL,2,0.442628059
-Glucose-MOX-5TMS-PK29,Carbohydrates,SH,CTRL,2,0.819796996
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,CTRL,2,0.819796996
 "Xylose, TMS",Carbohydrates,SH,CTRL,2,0.493983881
 "Myo-Inositol, 6TMS",Carbohydrates,SH,CTRL,2,0.414777359
 "Palmitic acid, TMS",Fatty acids,SH,CTRL,2,0.51042964
@@ -2073,7 +2073,7 @@ Glyceric acid 3TMS,Organic acids,SH,CTRL,3,0.002956485
 β-D-Glucopyranose TMS,Carbohydrates,SH,CTRL,3,0.225076137
 5-Methoxyindoleacetic acid,Indoles,SH,CTRL,3,2.21980507
 Erythrose MEOX-3TMS,Carbohydrates,SH,CTRL,3,0.870348232
-Glucose-MOX-5TMS-PK29,Carbohydrates,SH,CTRL,3,-0.549513807
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,CTRL,3,-0.549513807
 "Xylose, TMS",Carbohydrates,SH,CTRL,3,1.126589966
 "Myo-Inositol, 6TMS",Carbohydrates,SH,CTRL,3,1.210432395
 "Palmitic acid, TMS",Fatty acids,SH,CTRL,3,1.194609787
@@ -2109,7 +2109,7 @@ Glyceric acid 3TMS,Organic acids,SH,CTRL,4,-0.021000707
 β-D-Glucopyranose TMS,Carbohydrates,SH,CTRL,4,1.041862129
 5-Methoxyindoleacetic acid,Indoles,SH,CTRL,4,0.080200893
 Erythrose MEOX-3TMS,Carbohydrates,SH,CTRL,4,0.965060435
-Glucose-MOX-5TMS-PK30,Carbohydrates,SH,CTRL,4,0.744419062
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,CTRL,4,0.744419062
 "Xylose, TMS",Carbohydrates,SH,CTRL,4,1.220686602
 "Myo-Inositol, 6TMS",Carbohydrates,SH,CTRL,4,0.953174473
 "Palmitic acid, TMS",Fatty acids,SH,CTRL,4,1.328875063
@@ -2145,7 +2145,7 @@ Glyceric acid 3TMS,Organic acids,SH,CTRL,5,-0.290008869
 β-D-Glucopyranose TMS,Carbohydrates,SH,CTRL,5,-0.614620758
 5-Methoxyindoleacetic acid,Indoles,SH,CTRL,5,-0.869662493
 Erythrose MEOX-3TMS,Carbohydrates,SH,CTRL,5,0.752887442
-Glucose-MOX-5TMS-PK30,Carbohydrates,SH,CTRL,5,-0.616021812
+Glucose-MOX-5TMS-PK1,Carbohydrates,SH,CTRL,5,-0.616021812
 "Xylose, TMS",Carbohydrates,SH,CTRL,5,0.629709887
 "Myo-Inositol, 6TMS",Carbohydrates,SH,CTRL,5,0.437756925
 "Palmitic acid, TMS",Fatty acids,SH,CTRL,5,0.650656216
